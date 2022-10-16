@@ -1,0 +1,94 @@
+img {
+    block-size: 40rem;
+}
+
+.container-fluid {
+    padding: 0px;
+}
+
+hgroup {
+    position: absolute;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(139, 69, 19, 0.3);
+}
+
+#title {
+    font-size: 550%;
+    color: aliceblue;
+}
+
+#tagline {
+    font-size: 125%;
+    color: aliceblue;
+}
+
+nav {
+    background-color: rgba(139, 69, 19, 0.8);
+}
+
+.dropdown-item {
+    background-color: saddlebrown;
+    color: white;
+}
+
+#open-img {
+    filter: blur(4px);
+    -webkit-filter: blur(4px);
+}
+
+.description {
+    padding-block-start: 5rem;
+}
+
+p {
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;
+}
+
+#person-img {
+    max-height: 75%;
+    border-radius: 5mm;
+    margin-inline-start: 8rem;
+}
+
+#mark {
+    color: antiquewhite;
+}
+
+nav li {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.main-info {
+    background-color: rgba(219, 161, 44, 0.3);
+}
+
+#proof {
+    font-weight: bold;
+}
+
+.benefits {
+    margin-block-start: 3rem;
+}
+
+.images {
+    border-radius: 5mm;
+}
+
+.carousel {
+    margin-block-end: 10rem;
+} 
+
+#purpose {
+    margin-block-end: 5rem;
+}
+
+#the_why {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#first_benefit {
+    margin-block-start: 12rem;
+}
