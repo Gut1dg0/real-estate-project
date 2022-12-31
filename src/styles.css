@@ -116,4 +116,8 @@ nav li {
     .collins {
         flex-basis: 100%;
     }
+
+    #title {
+        font-size: 350%;
+    }
 }
