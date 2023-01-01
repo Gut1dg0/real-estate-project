@@ -54,9 +54,10 @@ p {
 }
 
 #person-img {
-    max-height: 75%;
+    max-height: 24rem;
     max-width: 100%;
     border-radius: 5mm;
+    margin-inline-start: 5rem;
 }
 
 #mark {
@@ -133,5 +134,19 @@ nav li {
         display: flex;
         justify-content: center;
         margin-block-start: 2rem;
+    }
+
+    #person-img {
+        margin: 0px;
+    }
+}
+
+@media (max-width:499px) {
+    #title {
+        font-size: 150%;
+    }
+
+    #tagline {
+        font-size: 100%;
     }
 }
