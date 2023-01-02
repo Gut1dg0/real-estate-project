@@ -149,4 +149,16 @@ nav li {
     #tagline {
         font-size: 100%;
     }
+
+    #landscape {
+        max-block-size: 18rem;
+    }
+
+    #agent {
+        margin-block-end: 5rem;
+    }
+
+    #purpose {
+        margin-block-end: 2.5rem;
+    }
 }
